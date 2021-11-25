@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PracticalFunctions
+comment1.params=n1\ n2
+comment1.target=int\ BinaryToDecimal(int,\ int)
+comment2.params=dec
+comment2.target=int[]\ DecToBinary(int)
+numComments=3

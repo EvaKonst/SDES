@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CreateKeys
+comment1.params=
+comment1.target=CreateKeys()
+comment2.params=key_in
+comment2.target=void\ MakeKeys(java.lang.String)
+comment3.params=
+comment3.target=void\ permutationP10()
+comment4.params=
+comment4.target=void\ leftshiftLS1()
+comment5.params=
+comment5.target=int[]\ permutationP8()
+comment6.params=
+comment6.target=void\ leftshiftLS2()
+comment7.params=
+comment7.target=int[]\ get_K1()
+comment8.params=
+comment8.target=int[]\ get_K2()
+numComments=9

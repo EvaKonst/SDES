@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrintArr
+comment1.params=array\ length
+comment1.target=void\ array(int[],\ int)
+comment1.text=Prints\ array\ to\ console\ \ *
+numComments=2

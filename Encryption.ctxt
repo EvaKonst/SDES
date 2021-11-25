@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Encryption
+comment1.params=plaintext\ Key_1\ Key_2
+comment1.target=void\ GetPlaintext(java.lang.String,\ int[],\ int[])
+comment2.params=
+comment2.target=void\ InitialPermutation()
+comment3.params=
+comment3.target=void\ InitialPermutationInversed()
+comment4.params=RH\ SubKey
+comment4.target=int[]\ mapping(int[],\ int[])
+comment5.params=LH\ RH\ SubKey
+comment5.target=int[]\ FK(int[],\ int[],\ int[])
+comment6.params=tmp2
+comment6.target=int[]\ SW(int[])
+comment7.params=plaintext\ LK\ RK
+comment7.target=int[]\ all(java.lang.String,\ int[],\ int[])
+numComments=8
